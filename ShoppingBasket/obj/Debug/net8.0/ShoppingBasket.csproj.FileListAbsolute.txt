@@ -1,0 +1,14 @@
+C:\Users\vamsi\Downloads\ShoppingBasketAssessment\ShoppingBasketAssessment\ShoppingBasket\bin\Debug\net8.0\ShoppingBasket.exe
+C:\Users\vamsi\Downloads\ShoppingBasketAssessment\ShoppingBasketAssessment\ShoppingBasket\bin\Debug\net8.0\ShoppingBasket.deps.json
+C:\Users\vamsi\Downloads\ShoppingBasketAssessment\ShoppingBasketAssessment\ShoppingBasket\bin\Debug\net8.0\ShoppingBasket.runtimeconfig.json
+C:\Users\vamsi\Downloads\ShoppingBasketAssessment\ShoppingBasketAssessment\ShoppingBasket\bin\Debug\net8.0\ShoppingBasket.dll
+C:\Users\vamsi\Downloads\ShoppingBasketAssessment\ShoppingBasketAssessment\ShoppingBasket\bin\Debug\net8.0\ShoppingBasket.pdb
+C:\Users\vamsi\Downloads\ShoppingBasketAssessment\ShoppingBasketAssessment\ShoppingBasket\obj\Debug\net8.0\ShoppingBasket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vamsi\Downloads\ShoppingBasketAssessment\ShoppingBasketAssessment\ShoppingBasket\obj\Debug\net8.0\ShoppingBasket.AssemblyInfoInputs.cache
+C:\Users\vamsi\Downloads\ShoppingBasketAssessment\ShoppingBasketAssessment\ShoppingBasket\obj\Debug\net8.0\ShoppingBasket.AssemblyInfo.cs
+C:\Users\vamsi\Downloads\ShoppingBasketAssessment\ShoppingBasketAssessment\ShoppingBasket\obj\Debug\net8.0\ShoppingBasket.csproj.CoreCompileInputs.cache
+C:\Users\vamsi\Downloads\ShoppingBasketAssessment\ShoppingBasketAssessment\ShoppingBasket\obj\Debug\net8.0\ShoppingBasket.dll
+C:\Users\vamsi\Downloads\ShoppingBasketAssessment\ShoppingBasketAssessment\ShoppingBasket\obj\Debug\net8.0\refint\ShoppingBasket.dll
+C:\Users\vamsi\Downloads\ShoppingBasketAssessment\ShoppingBasketAssessment\ShoppingBasket\obj\Debug\net8.0\ShoppingBasket.pdb
+C:\Users\vamsi\Downloads\ShoppingBasketAssessment\ShoppingBasketAssessment\ShoppingBasket\obj\Debug\net8.0\ShoppingBasket.genruntimeconfig.cache
+C:\Users\vamsi\Downloads\ShoppingBasketAssessment\ShoppingBasketAssessment\ShoppingBasket\obj\Debug\net8.0\ref\ShoppingBasket.dll
